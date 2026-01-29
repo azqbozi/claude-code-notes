@@ -1,0 +1,19 @@
+{
+  "id": "conv-1769668396464-aw3np2vb8",
+  "title": "Start Conversation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769668396464,
+  "updatedAt": 1769669794933,
+  "lastResponseAt": 1769669794933,
+  "sessionId": "eabe9922-cae3-4ada-bffe-2a38a19d12db",
+  "sdkSessionId": "eabe9922-cae3-4ada-bffe-2a38a19d12db",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 278,
+    "cacheCreationInputTokens": 34524,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 34802,
+    "percentage": 17
+  }
+}
