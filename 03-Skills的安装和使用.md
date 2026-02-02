@@ -107,23 +107,23 @@ Claude Code就会将**官方的 Plugin Marketplace** 添加进来。
 
 这里的目录路径，就是前面介绍的 Skills 路径，每个工具的 Skills 路径各不相同。
 
-|   |   |   |
-|---|---|---|
-|工具|全局（用户级）路径|项目级路径|
-|Claude Code|~/.claude/skills/|.claude/skills/|
-|Codex|~/.codex/skills/|.codex/skills/|
-|Gemini CLI|~/.gemini/skills/|.gemini/skills/|
-|Opencode|~/.config/opencode/skill/ 或 ~/.claude/skills/|.opencode/skill/ 或 .claude/skills/|
-|AMP|~/.config/agents/skills/ 或 ~/.claude/skills/|.agents/skills/ 或 .claude/skills/|
-|CodyBuddy|~/.codebuddy/skills/|.codebuddy/skills/|
-|Antigravity|~/.gemini/antigravity/skills/|.agent/skills/|
-|VS Code|~/.copilot/skills/ 或 ~/.claude/skills/|.github/skills/ 或 .claude/skills/|
-|Cursor|~/.cursor/skills/ 或 ~/.claude/skills/|.cursor/skills/ 或 .claude/skills/|
-|Windsurf|~/.codeium/windsurf/skills/|.windsurf/skills/|
-|Kilo|~/.kilocode/skills/|.kilocode/skills/|
-|Trae|~/.trae/skills/|.trae/skills/|
-|Factory|~/.factory/skills/|.factory/skills/|
-|Goose|~/.config/goose/skills/ 或 ~/.config/agent/skills/ 或 ~/.claude/skills/|.goose/skills/ 或 .agent/skills/ 或 .claude/skills/|
+|             |                                                                       |                                                   |
+| ----------- | --------------------------------------------------------------------- | ------------------------------------------------- |
+| 工具          | 全局（用户级）路径                                                             | 项目级路径                                             |
+| Claude Code | ~/.claude/skills/                                                     | .claude/skills/                                   |
+| Codex       | ~/.codex/skills/                                                      | .codex/skills/                                    |
+| Gemini CLI  | ~/.gemini/skills/                                                     | .gemini/skills/                                   |
+| Opencode    | ~/.config/opencode/skill/ 或 ~/.claude/skills/                         | .opencode/skill/ 或 .claude/skills/                |
+| AMP         | ~/.config/agents/skills/ 或 ~/.claude/skills/                          | .agents/skills/ 或 .claude/skills/                 |
+| CodyBuddy   | ~/.codebuddy/skills/                                                  | .codebuddy/skills/                                |
+| Antigravity | ~/.gemini/antigravity/skills/                                         | .agent/skills/                                    |
+| VS Code     | ~/.copilot/skills/ 或 ~/.claude/skills/                                | .github/skills/ 或 .claude/skills/                 |
+| Cursor      | ~/.cursor/skills/ 或 ~/.claude/skills/                                 | .cursor/skills/ 或 .claude/skills/                 |
+| Windsurf    | ~/.codeium/windsurf/skills/                                           | .windsurf/skills/                                 |
+| Kilo        | ~/.kilocode/skills/                                                   | .kilocode/skills/                                 |
+| Trae        | ~/.trae/skills/                                                       | .trae/skills/                                     |
+| Factory     | ~/.factory/skills/                                                    | .factory/skills/                                  |
+| Goose       | ~/.config/goose/skills/ 或 ~/.config/agent/skills/ 或 ~/.claude/skills/ | .goose/skills/ 或 .agent/skills/ 或 .claude/skills/ |
 
   
 
