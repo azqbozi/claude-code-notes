@@ -16,7 +16,7 @@ Plugins 是 Claude Code 推出的插件系统，它可以将 MCP Servers、上�
 
 它一般是通过 Plugin Marketplace 来统一管理，官方自己也推出了自己的 Plugin Marketplace，这里要安装介绍的 frontend-design skills 就是其中的一个 Plugin。
 
-添加官方 Plugin Marketplace 的方法也很简单，在 Claude Code 输入 /plugin；
+添加官方 Plugin Marketplace 的方法也很简单，在 Claude Code 输入 /plu；
 
 ![](https://my.feishu.cn/space/api/box/stream/download/asynccode/?code=NmUxOWZjYmVhNDE0OTlmN2EzNTA0NTRmZGMyMDQ5NzFfNURpMWR5cFdYc2liRlhyYmRqUk5hZGNWRG5Scm9hV2RfVG9rZW46WjhmWmJZNk9Lb0VWUU14aTBLaWMzZTVibmJnXzE3Njk2NjgyNjI6MTc2OTY3MTg2Ml9WNA)
 
